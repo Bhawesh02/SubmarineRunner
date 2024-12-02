@@ -125,7 +125,7 @@ The modular approach ensures that each component of the game is loosely coupled 
 
 ## Gameplay
 
-[![]([https://github.com/Bhawesh02/Mesh-Deformation/blob/master/Mesh%20Deform%20Test/Assets/Extra/Mesh%20Deformer.gif](https://github.com/Bhawesh02/SubmarineRunner/blob/main/SubmarineRunner/Assets/Extra/Submarine%20Jump%20Record.gif))](https://youtube.com/shorts/wjc8JKgfTDQ)
+[![](https://github.com/Bhawesh02/SubmarineRunner/blob/main/SubmarineRunner/Assets/Extra/Submarine%20Jump%20Record.gif)](https://youtube.com/shorts/wjc8JKgfTDQ)
 
 ## Contribution
 
