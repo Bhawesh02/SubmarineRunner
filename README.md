@@ -101,7 +101,6 @@ The **Submarine Runner Game** is designed with a modular and maintainable codeba
 
 ### Design Patterns
 
-- **State Pattern**: The AI submarines utilize the State pattern to manage various states (patrolling, evading, chasing) and transition between them based on game conditions.
 - **Observer Pattern**: Power-ups and game events use the Observer pattern to notify relevant entities (like the player or AI) when changes occur (e.g., power-up pickup, game over).
 - **Singleton Pattern**: The `GameManager` is implemented as a singleton to ensure only one instance controls the overall game flow, keeping the game state consistent.
 
