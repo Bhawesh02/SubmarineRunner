@@ -9,7 +9,7 @@
 - [Game Overview](#game-overview)
 - [Gameplay Mechanics](#gameplay-mechanics)
 - [Code Architecture](#code-architecture)
-- [Working video](#working-video)
+- [Gameplay](#Gameplay)
 
 ## Game Overview
 
@@ -123,9 +123,9 @@ The architecture is designed with scalability in mind, allowing for:
 
 The modular approach ensures that each component of the game is loosely coupled and easy to test individually, making the development process more efficient and reducing the risk of bugs.
 
-## Working video
+## Gameplay
 
-[![](https://github.com/Bhawesh02/Mesh-Deformation/blob/master/Mesh%20Deform%20Test/Assets/Extra/Mesh%20Deformer.gif)](https://youtu.be/mKKhAUzzRZM)
+[![]([https://github.com/Bhawesh02/Mesh-Deformation/blob/master/Mesh%20Deform%20Test/Assets/Extra/Mesh%20Deformer.gif](https://github.com/Bhawesh02/SubmarineRunner/blob/main/SubmarineRunner/Assets/Extra/Submarine%20Jump%20Record.gif))](https://youtube.com/shorts/wjc8JKgfTDQ)
 
 ## Contribution
 
