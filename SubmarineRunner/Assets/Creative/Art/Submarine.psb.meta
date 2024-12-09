@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: f626ee1ebf44c4bee926bc2f874cae83
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Yellow_1stHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 772
+      width: 201
+      height: 186
+    spriteID: 432501f62f74a4d389d6760e4c423a6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 772}
+    spritePosition: {x: 826, y: 494}
+  - name: Yellow_2ndHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 392
+      width: 293
+      height: 182
+    spriteID: 5936268f282cc42d69578717d636f682
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 392}
+    spritePosition: {x: 577, y: 494}
+  - name: Yellow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 450
+      height: 186
+    spriteID: 69c3dbc642d46493e8650181d856332e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 577, y: 494}
+  - name: Red_1stHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 772
+      width: 201
+      height: 186
+    spriteID: d8df29ef815424d6cbefcd47c8b73fc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 772}
+    spritePosition: {x: 339, y: 602}
+  - name: Red_2ndHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 392
+      width: 293
+      height: 182
+    spriteID: fff56ba7a63aa424b87366b0b672a635
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 392}
+    spritePosition: {x: 90, y: 602}
+  - name: Red
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 462
+      y: 4
+      width: 450
+      height: 186
+    spriteID: 35ca16dc3012442f4998efbd36843cb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: 4}
+    spritePosition: {x: 90, y: 602}
+  - name: Orange_1stHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 772
+      width: 201
+      height: 186
+    spriteID: aaebf4ec3f39049f48f68d693ec3a1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 772}
+    spritePosition: {x: 802, y: 1479}
+  - name: Orange_2ndHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 606
+      y: 392
+      width: 293
+      height: 182
+    spriteID: b33c11033fb9c44338065c9f91cc8705
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 606, y: 392}
+    spritePosition: {x: 553, y: 1479}
+  - name: Orange
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 198
+      width: 450
+      height: 186
+    spriteID: b4b7442b382294d8d81bbbd5613c3590
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 198}
+    spritePosition: {x: 553, y: 1479}
+  - name: Green_1sthalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 631
+      y: 772
+      width: 201
+      height: 186
+    spriteID: b4d7e8c1b4533481aba243604e25a77e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 631, y: 772}
+    spritePosition: {x: 561, y: 998}
+  - name: Green_2ndHalf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 582
+      width: 293
+      height: 182
+    spriteID: f3ad88b646776465a887e57dbf6a6cc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 582}
+    spritePosition: {x: 312, y: 998}
+  - name: Green
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 462
+      y: 198
+      width: 450
+      height: 186
+    spriteID: 4593f1dd7884d4a039914c81949fb436
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: 198}
+    spritePosition: {x: 312, y: 998}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Yellow_1stHalf
+    spriteName: Yellow_1stHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 432501f62f74a4d389d6760e4c423a6d
+    layerID: 178
+    mosaicPosition: {x: 4, y: 772}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Yellow_2ndHalf
+    spriteName: Yellow_2ndHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5936268f282cc42d69578717d636f682
+    layerID: 177
+    mosaicPosition: {x: 4, y: 392}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Yellow
+    spriteName: Yellow
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 69c3dbc642d46493e8650181d856332e
+    layerID: 176
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Red_1stHalf
+    spriteName: Red_1stHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d8df29ef815424d6cbefcd47c8b73fc6
+    layerID: 175
+    mosaicPosition: {x: 213, y: 772}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Red_2ndHalf
+    spriteName: Red_2ndHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fff56ba7a63aa424b87366b0b672a635
+    layerID: 174
+    mosaicPosition: {x: 305, y: 392}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Red
+    spriteName: Red
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 35ca16dc3012442f4998efbd36843cb4
+    layerID: 173
+    mosaicPosition: {x: 462, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange_1stHalf
+    spriteName: Orange_1stHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aaebf4ec3f39049f48f68d693ec3a1bd
+    layerID: 172
+    mosaicPosition: {x: 422, y: 772}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange_2ndHalf
+    spriteName: Orange_2ndHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b33c11033fb9c44338065c9f91cc8705
+    layerID: 171
+    mosaicPosition: {x: 606, y: 392}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange
+    spriteName: Orange
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b4b7442b382294d8d81bbbd5613c3590
+    layerID: 170
+    mosaicPosition: {x: 4, y: 198}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Green_1sthalf
+    spriteName: Green_1sthalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b4d7e8c1b4533481aba243604e25a77e
+    layerID: 169
+    mosaicPosition: {x: 631, y: 772}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Green_2ndHalf
+    spriteName: Green_2ndHalf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3ad88b646776465a887e57dbf6a6cc6
+    layerID: 168
+    mosaicPosition: {x: 4, y: 582}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Green
+    spriteName: Green
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4593f1dd7884d4a039914c81949fb436
+    layerID: 167
+    mosaicPosition: {x: 462, y: 198}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31ac47b49bbb48dbb6faa64f5c25966b, type: 3}
+  m_Name: SurvivalConfig
+  m_EditorClassIdentifier: 
+  PlayerSubmarine:
+    MoveSpeed: 11.5
+    SubmarineRotationData:
+      RotationSpeed: 100
+      RotationAngle: 35
+    PlayerSpeedIncreaseOnPickupCollected: 2
+    PlayerSpeedPercentageOnPickupUse: 20
+  AISubmarine:
+    MinMoveSpeed: 11.2
+    MoveSpeedIncrement: 1.5
+    SubmarineRotationData:
+      RotationSpeed: 100
+      RotationAngle: 35
+    ObstacleLayer:
+      serializedVersion: 2
+      m_Bits: 64
+    MinMovementSwitchDelay: 1
+    MaxMovementSwitchDelay: 2
+    AISpeedPercentangeOnPickupUse: 40
+  GravityForSubmarineBrokenPart: 0.5
+  RotationForSubmarineBrokenPart: {x: 0, y: 0, z: 360}
+  RotationDelayForSubmarineBrokenPart: 2.5
+  SpeedAfterEMPHit: 2
+  EMPDuration: 5
+  EMPPfxStartDelay: 0.25
+  EMPRadius: 6
+  FishnetData:
+    ChaseSpeed: 20
+    RotationSpeed: 500
+    FireDistance: 7.5
+  TeleportDistance: 4.5
+  TeleportScaleDuration: 0.1
+  TeleportCameraTransitionDelay: 0.3
+  TeleportEndXIncement: 0
+  TeleportEndXIncementDelay: 0
+  TurboSpeed: 20
+  TurboActiveDuration: 4
+  ReverseControlProjectileData:
+    ChaseSpeed: 10
+    RotationSpeed: 350
+    FireDistance: 8
+  SubmarineFlipSpeed: 0.5
+  SubmarineFlipRotation: {x: 180, y: 0, z: -180}
+  SubmarineSpriteBlinkDelay: 0.05
+  SharkSpeed: 13.5
+  SharkRotationSpeed: 200
+  SharkSpeedPercentageOnPickupUsed: 10
+  SharkPushbackForceOnSpikeCollision: 2.25
+  SharkSpeedRecoveryAfterSpikeCollision: 9
+  SharkSpeedAfterSubEaten: 9
+  SharkSpeedDecreaseDelay: 0.6
+  SharkDistanceToPlayBiteAnimation: 4
+  SharkSpeedIncreaseOnPickupCollected: 1.5
