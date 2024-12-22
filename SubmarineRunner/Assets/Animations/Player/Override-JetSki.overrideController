@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Override-JetSki
+  m_Controller: {fileID: 9100000, guid: 1212bcb682e6147d485b121c4904fa48, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 699785dca3cd34f328ff5f5867d1a3eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2b271945e9c9f4a15b0003bce523a5ae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7813712530ffa4cc4a7fd6bfcc90cafd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8c8294488c16404ba773f6afb736437, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f5b1704f9a0724827b3d1a88abecd77d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9869bbd7c677428c9b9f83451ff685e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41266db059d0f45f8be99a28acda3151, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e13523ebf6d7342d1ad85620850780c4, type: 2}

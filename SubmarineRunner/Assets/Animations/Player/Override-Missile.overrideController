@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Override-Missile
+  m_Controller: {fileID: 9100000, guid: 1212bcb682e6147d485b121c4904fa48, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 699785dca3cd34f328ff5f5867d1a3eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 473e061a5b80e4184a284495113a3114, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41266db059d0f45f8be99a28acda3151, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 039f35e837240411c93ac223cdda1a2a, type: 2}
